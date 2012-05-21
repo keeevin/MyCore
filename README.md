@@ -1,0 +1,4 @@
+MyCore
+======
+
+My personal core.
